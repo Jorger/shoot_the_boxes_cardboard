@@ -6,7 +6,7 @@ Juego en el que podrás disparar a una serie de cajas que se mueven en el escena
 
 ### Demo
 
-Es posible acceder al juego a través de la dirección: https://jorger.github.io/shoot_the_boxes_cardboard/
+Es posible acceder al juego a través de la dirección: http://jorger.github.io/shoot_the_boxes_cardboard/
 
 Para dispositivos móviles es posible escanear el siguiente código QR.
 
