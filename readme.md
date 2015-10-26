@@ -1,22 +1,24 @@
-# Repositorio Electiva Profesional III
+# Shoot the boxes - Cardboard/Three.js
 
-Repositorio asignatura Electiva Profesional III
+Juego en el que podrás disparar a una serie de cajas que se mueven en el escenario, haciendo uso de las [Google CardBoard]
 
-### Enlaces.
+![STB](https://dl.dropboxusercontent.com/u/181689/ShotBoxes.gif)
 
-* Slack: https://unicundi.slack.com/
-* DropBox: https://goo.gl/murtJG
-* Cloud9: https://c9.io/
-* Uso Cliente GitHub (Windows): https://www.youtube.com/watch?v=MuNnhLATJUU
-* Publicar en GitHub: https://youtu.be/D6VFF8Rsyao
-* Desplegar aplicaciones en GitHub: http://drastudio.github.io/url-generator/
-* Desplegar aplicaciones en GDrive: https://support.google.com/drive/answer/2881970?hl=es (Leer Aviso)
+### Demo
 
-### Transmisiones.
+Es posible acceder al juego a través de la dirección: http://jorger.github.io/juego_adivinando/
 
-#### 10 de Septiembre de 2015
+Para dispositivos móviles es posible escanear el siguiente código QR.
 
-https://youtu.be/BIZtNKMbNYM
+![QR](https://dl.dropboxusercontent.com/u/181689/imgGame/qrAdivinando.png)
+
+### Tecnologías/Librerías.
+
+* [WebGL]
+* [Three.js]
+* [Templates for Google Cardboard]
+* [Skybox]
+* [cannon.js]
 
 ### Autor
 Jorge Rubaino
@@ -26,3 +28,9 @@ License
 ----
 MIT
 [@ostjh]:https://twitter.com/ostjh
+[Google CardBoard]:https://www.google.com/get/cardboard/
+[WebGL]:https://get.webgl.org/
+[Three.js]:http://threejs.org/
+[Templates for Google Cardboard]:http://jaanga.github.io/cookbook/cardboard/readme-reader.html
+[Skybox]:http://stemkoski.github.io/Three.js/Skybox.html
+[cannon.js]:https://github.com/schteppe/cannon.js
