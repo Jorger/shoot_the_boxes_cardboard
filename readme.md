@@ -10,7 +10,7 @@ Es posible acceder al juego a través de la dirección: https://jorger.github.io
 
 Para dispositivos móviles es posible escanear el siguiente código QR.
 
-![QR](https://dl.dropboxusercontent.com/u/181689/shot.gif)
+![QR](https://dl.dropboxusercontent.com/u/181689/qrshootboxes.png)
 
 ### Tecnologías/Librerías.
 
