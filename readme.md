@@ -6,11 +6,11 @@ Juego en el que podrás disparar a una serie de cajas que se mueven en el escena
 
 ### Demo
 
-Es posible acceder al juego a través de la dirección: http://jorger.github.io/juego_adivinando/
+Es posible acceder al juego a través de la dirección: https://jorger.github.io/shoot_the_boxes_cardboard/
 
 Para dispositivos móviles es posible escanear el siguiente código QR.
 
-![QR](https://dl.dropboxusercontent.com/u/181689/imgGame/qrAdivinando.png)
+![QR](https://dl.dropboxusercontent.com/u/181689/shot.gif)
 
 ### Tecnologías/Librerías.
 
