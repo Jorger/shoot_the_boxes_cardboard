@@ -2,7 +2,7 @@
 
 Juego en el que podrás disparar a una serie de cajas que se mueven en el escenario, haciendo uso de las [Google CardBoard]
 
-![STB](https://dl.dropboxusercontent.com/u/181689/ShotBoxes.gif)
+![Game](https://dl.dropboxusercontent.com/u/181689/ShotBoxes.gif)
 
 ### Demo
 
