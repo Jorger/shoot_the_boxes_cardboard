@@ -286,7 +286,7 @@ window.onload = function()
                     divPuntua[0].innerHTML = divPuntua[1].innerHTML = numChoca + " / " + maxCubes;
                     if(numChoca >= maxCubes)
                     {
-                        window.location = "https://github.com/Jorger";
+                        window.location = "https://github.com/Jorger/shoot_the_boxes_cardboard";
                     }
                     eliminar.push(i);
                 }
